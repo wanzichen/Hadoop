@@ -1,1 +1,1 @@
-# Hadoop with Yarn Standalone Model using EC2
+# Intall Hadoop with Yarn Standalone Model using EC2
